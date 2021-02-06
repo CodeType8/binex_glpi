@@ -1,0 +1,91 @@
+[2021-01-28 18:19:42] glpiphplog.WARNING: Test logger  
+[2021-01-28 19:32:25] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:32:25] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:32:27] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:32:27] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:33:47] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:33:47] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:33:50] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:33:50] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:38:07] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:38:07] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:38:08] glpiphplog.WARNING:   *** PHP Warning (2): count(): Parameter must be an array or an object that implements Countable in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1870
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
+[2021-01-28 19:38:08] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function next() on bool in /opt/bitnami/apps/wordpress/htdocs/glpi/inc/commonitiltask.class.php at line 1939
+  Backtrace :
+  inc/central.class.php:260                          CommonITILTask::showCentralList()
+  inc/central.class.php:95                           Central::showGroupView()
+  inc/commonglpi.class.php:637                       Central::displayTabContentForItem()
+  inc/commonglpi.class.php:604                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:92                            CommonGLPI::displayStandardTab()
+  
